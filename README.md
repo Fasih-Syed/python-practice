@@ -6,3 +6,5 @@ This repository contains my Python practice as I prepare for open-source contrib
 - Improve Python fundamentals
 - Learn Git and GitHub workflow
 - Contribute to open-source projects
+## Status
+Learning GitHub workflow step by step.
